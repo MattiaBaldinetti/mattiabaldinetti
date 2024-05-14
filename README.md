@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mattia Baldinetti</h1>
-<h3 align="center">A Computer Science student and sports and car enthusiast</h3>
+<h3 align="center">Computer scientist and passionate about sports and cars</h3>
+
+- 💼 I currently hold the position of **Software Engineer at Leonardo S.p.A**
 
 - 🎓 I've a **Bachelor’s Degree in Computer Science**
 
 - 🔭 I’m currently learning  **Machine Learning** and **Cybersecurity**
 
-- 💼 My dream job is to be **an etichal hacker**
+- 👨‍💻 My dream job is to be **an etichal hacker**
 
 - 📫 How to reach me **mattiabal@yahoo.it**
 
 - ⚡ Fun fact **If you play a lot of video games as a child, you will be a computer scientist for sure when you grow up**
+
 - 🏠 Location **Italy 🇮🇹**
 
 <!--
