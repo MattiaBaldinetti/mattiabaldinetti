@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia Baldinetti</h1>
 <h3 align="center">Computer scientist and passionate about sports and cars</h3>
 
-- 💼 I currently hold the position of **Software Engineer at Leonardo S.p.A**
+- 💼 I am currently working as a **Software Engineer at Leonardo S.p.A**
 
 - 🎓 I've a **Bachelor’s Degree in Computer Science**
 
