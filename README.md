@@ -5,7 +5,7 @@
 
 - 🎓 I've a **Bachelor’s Degree in Computer Science**
 
-- 🔭 **Cybersecurity Msc Student**
+- 🔭 **Cybersecurity MSc Student**
 
 - 👨‍💻 My dream job is to be **an etichal hacker**
 
